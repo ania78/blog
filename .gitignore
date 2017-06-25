@@ -3,4 +3,3 @@ __pycache__
 django_girls
 db.sqlite3
 .DS_Store
-test.py
